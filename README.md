@@ -23,13 +23,16 @@ Sou um Desenvolvedor BACK-END apaixonado por transformar ideias em código. Atua
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/gustavorocha30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorocha30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorocha30&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavorocha30&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorocha30&layout=compact&theme=dracula&hide_border=true" height="150" alt="langs"/>
 </div>
-
 ---
+
+### 🐍 Minha Jornada (Snake Game)
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ### 📫 Vamos conectar?
 
