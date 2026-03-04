@@ -17,15 +17,15 @@ Sou um Desenvolvedor BACK-END apaixonado por transformar ideias em código. Atua
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavorocha30&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorocha30&layout=compact&theme=dracula&hide_border=true" height="150" alt="langs"/>
-</div>
+<p align="center">
+  <img src="regigigas.gif" alt="Regigigas Pixelado" width="150px"/>
+</p>
 ---
 
 ### 🐍 Minha Jornada (Snake Game)
@@ -33,6 +33,7 @@ Sou um Desenvolvedor BACK-END apaixonado por transformar ideias em código. Atua
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ### 📫 Vamos conectar?
 
