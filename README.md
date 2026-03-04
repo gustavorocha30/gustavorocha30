@@ -21,11 +21,7 @@ Sou um Desenvolvedor BACK-END apaixonado por transformar ideias em código. Atua
 
 ---
 
-### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img src="giratina.gif" alt="giratina Pixelado" width="150px"/>
-</p>
 ---
 
 ### 🐍 Minha Jornada (Snake Game)
