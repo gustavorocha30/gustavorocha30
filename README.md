@@ -24,7 +24,7 @@ Sou um Desenvolvedor BACK-END apaixonado por transformar ideias em código. Atua
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="regigigas.gif" alt="Regigigas Pixelado" width="150px"/>
+  <img src="giratina.gif" alt="giratina Pixelado" width="150px"/>
 </p>
 ---
 
