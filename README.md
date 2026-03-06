@@ -19,11 +19,6 @@ Atualmente focado na transição para o ecossistema **Java**, trazendo uma bagag
 
 ---
 
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavorocha30&show_icons=true&theme=radical)
-
----
-
 ### 🐍 Minha Jornada (Snake Game)
 
 <div align="center">
