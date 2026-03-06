@@ -1,26 +1,26 @@
-# Olá, eu sou o Gustavo! 👋
+# Olá, eu sou o Gustavo Rocha! 🚀
 
-Sou um Desenvolvedor BACK-END apaixonado por transformar ideias em código. Atualmente estou focado em **Python** e **Django**, criando aplicações web robustas e modernas.
+<p align="center">
+  <img src="regigigas.gif" width="120" />
+</p>
 
-- 🔭 Atualmente trabalhando no projeto **GameVault** (E-commerce).
-- 🌱 Estudando **Arquitetura de Software** e **Segurança Web**.
-- 💡 Gosto de resolver problemas complexos de backend.
+### 🛠 Sobre mim
+Atualmente focado na transição para o ecossistema **Java**, trazendo uma bagagem sólida de desenvolvimento backend com **Python e Django**. Acredito que a tecnologia deve resolver problemas de negócio de forma segura e eficiente.
 
----
+- 🔭 Atualmente trabalhando no projeto **GameVault** (E-commerce Fullstack).
+- 🌱 Estudando: **Java Core, Spring Boot e Arquitetura de Microserviços**.
+- 💬 Pergunte-me sobre: **Integração com Stripe, Django e Lógica de Programação**.
 
-### 🛠️ Tech Stack & Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🚀 Principais Tecnologias
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
+### 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavorocha30&show_icons=true&theme=radical)
 
 ---
 
